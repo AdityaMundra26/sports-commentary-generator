@@ -1,0 +1,14 @@
+{
+  "base_model": "distilgpt2",
+  "target_modules": [
+    "c_attn",
+    "c_proj"
+  ],
+  "r": 8,
+  "alpha": 16,
+  "epochs": 15,
+  "lr": 0.001,
+  "examples": 84,
+  "loss_first": 4.403,
+  "loss_last": 1.868
+}
