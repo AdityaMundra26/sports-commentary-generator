@@ -1,6 +1,6 @@
 # Sports Commentary Generator
 
-[![Built with askThili](https://ask.thili.ai/api/v1/public/projects/gzpjhbwgdr/badge.svg)](https://ask.thili.ai/b/gzpjhbwgdr)
+[![Built with askThili](https://msrit.ask.thili.ai/api/v1/public/projects/gzpjhbwgdr/badge.svg)](https://msrit.ask.thili.ai/b/gzpjhbwgdr)
 
 Type a sports event ("Goal by Rivera, 89th minute, Lions lead 2-1"), pick a tone, and a GPT-2 model fine-tuned with
 **LoRA (written from scratch in PyTorch, no PEFT library)** writes a line of live commentary for it. Built for game
